@@ -1,4 +1,4 @@
-# Landing Page Project
+# VPN Landing Page – Subscription Website UI
 
 This is a clean and modern **Landing Page** built using **HTML**, **CSS**, and **SASS (SCSS)**.  
 The project focuses on responsive layouts, reusable styles, and smooth UI interactions.
